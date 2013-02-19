@@ -1,0 +1,32 @@
+By submitting this assignment, you certify that you have read, understood, and complied with
+the CSE 132 Collaboration Policy.
+You are also certifying that the following information is complete and truthful.
+
+Approximate number of hours you spent on this assignment: 4
+
+Challenge level of this assignment (1 = very easy; 10 = very challenging): 
+7
+
+Learning value of this assignment (1 = didn't learn anything; 10 = learned a lot): 
+9
+
+Check one of the following:
+
+[x] I worked on this lab entirely on my own, with help only from the TAs and the instructor.
+
+[ ] I received help from the following people or sources (other than the TAs or instructor).
+
+    List names here:
+    
+    
+[ ] I completed this lab using pair programming techniques with the following CSE 132 student.
+
+    Name of partner:
+    
+
+If there is anything else you want us to know about your work on this assignment, please
+explain here:
+
+I had a lot of issues with errors.    
+
+ 
